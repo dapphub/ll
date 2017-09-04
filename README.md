@@ -1,6 +1,6 @@
 ## Dapphub Linear Logic
 
-Dapphub ❤ linear logic.
+Dapphub ❤️ linear logic.
 
 Current work in progress:
 
