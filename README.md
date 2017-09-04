@@ -1,1 +1,7 @@
-This is an awesome thing to do.
+
+- ll motivation
+- ll sai
+- ll poster
+- calc
+- hacked cepter
+- token
