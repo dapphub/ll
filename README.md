@@ -1,6 +1,6 @@
 ## Dapphub Linear Logic
 
-Dapphub is conducting R&D in linear logic.
+Dapphub ❤ linear logic.
 
 Current work in progress:
 
